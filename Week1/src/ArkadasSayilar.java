@@ -1,3 +1,4 @@
+import java.util.ArrayList;
 
 public class ArkadasSayilar {
 
@@ -23,6 +24,7 @@ public class ArkadasSayilar {
 		else {
 			System.out.println(number1 +" ve " + number2 + " arkadaş sayılar değildir");	
 		}
+				
 	}
 
 }
